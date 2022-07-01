@@ -1,0 +1,19 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url("images/background.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.topnav {
+	color: white;
+	font-family: monospace;
+	display: flex;
+	margin-left: auto;
+}
